@@ -1,0 +1,8 @@
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/xm1k3/cent
+- https://github.com/hisxo/ReconAIzer
+- https://github.com/LeakIX/wpfinger
+- https://github.com/Th0h0/autossrf
+- https://github.com/p0dalirius/ApacheTomcatScanner
+- https://github.com/ali-0x11/Awesome-Dorks
+- https://github.com/six2dez/OneListForAll/blob/main/onelistforallshort.txt

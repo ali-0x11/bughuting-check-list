@@ -1,0 +1,68 @@
+
+0- [[main]]
+1- rengin
+2- [[amass]]
+3- [[assetfinder]]
+4- [[subfinder]]
+5- [[hoOk]]
+6- [[crawler]]
+7- recon.sh (own script)
+8- [[Subdomainer]]
+9- [[OneForAll]]
+10- [[katana]]
+11- frogy
+12- check for subdomains favicon
+13- [[httpx]]
+14- [[gau]]
+15- [[Fast-Google-Dorks-Scan]]
+16- [[shodan]]
+17- [[ffuf]]
+18- [[crt.sh]]
+19- [[ASN]]
+20- [[AEM]]
+21- [[Domain Takeover]]
+22- [[gotator]]
+23- [[REcollapse]]
+24- [[GodfatherOrwa]]
+25- [[userefuzz]]
+26- [[reconftw]]
+27- [[automated scripts]]
+28- [[ppfuzz]] (Prototype Pollution Fuzzer)
+29- [[gazer]]
+30- [[hakoriginfinder]]
+31- [[WAF Bypass]]
+32- [[Ghauri]]
+33- [[wpscan]]
+34- [[STARS]]
+35- [[Arjun]]
+36- [[wordlists]]
+37- [[symfony]]
+38- [[xss writeups]]
+39- [[cariddi]]
+40- [[Xssor.go]]
+41- [[google dorks]]
+42- [[Log4Shell Vulnerability Scanner]]
+43- [[Atlassian JIRA]]
+43- [[Burp Suite extentions]]
+44- [[VhostFinder]]
+45- [[jwt_tool]]
+46- [[asnmap]]
+47- [[one liner]]
+48- [[github repo]]
+49- [[used commands]]
+50- [[ASN]]
+51- [[Identify the IP owner]]
+52- [[nuclei]]
+53- [[bbot]]
+54- [[git-dumper]]
+55- [[uncover]]
+56- [[CVES]]
+57- [[check lists]]
+58- [[paths to check]]
+http.favicon.hash:[favicon hash]
+## Subdomain Brute Forcing
+	1- Puredns ()
+	2- gobuster
+
+ 
+https://www.dedigger.com/?s=cvs.com#gsc.tab=0&gsc.q=cvs.com&gsc.page=5

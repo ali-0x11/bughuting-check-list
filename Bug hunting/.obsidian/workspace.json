@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "c4f70e286585b537",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b3290b00db1478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd57a262d696383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b09e7c1bcbd15ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a8b2d11492edaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24beee00908cf24c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10339aa434fbe094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f41163552da3b8f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "28f005c7bca698be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f8fb76f96ed7408a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb784551d3e3558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da2a0a4a22cc701e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "602af5928dbebb90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5ed2445f1908bcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd97a2034018345a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "ebd57a262d696383",
+  "lastOpenFiles": [
+    "Home.md",
+    "atscan.md",
+    "gospider.md",
+    "XSS.md",
+    "LFI.md",
+    "open redirect.md",
+    "OneForAll.md",
+    "metabigor.md",
+    "hoOk.md",
+    "assetfinder.md",
+    "subfinder.md",
+    "amass.md",
+    "katana.md",
+    "gowitness.md",
+    "puredns.md",
+    "shuffledns.md",
+    "test.md",
+    "subzy.md",
+    "ffuf.md",
+    "4-ZERO-3.md",
+    "AEM.md",
+    "altdns.md",
+    "aquatone.md",
+    "Arjun.md",
+    "Identify the IP owner.md",
+    "hakrawler.md",
+    "Untitled",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Screenshot 2023-06-07 221438.jpg",
+    "Screenshot 2023-06-07 221331.jpg",
+    "Screenshot 2023-06-07 221240.jpg",
+    "Screenshot 2023-06-07 221202.jpg",
+    "Screenshot 2023-06-07 220952.jpg",
+    "Screenshot 2023-06-07 220909.jpg",
+    "Screenshot 2023-06-07 220743.jpg",
+    "Screenshot 2023-06-07 220649.jpg",
+    "Screenshot 2023-06-07 220556.jpg",
+    "Screenshot 2023-06-07 220036.jpg"
+  ]
+}

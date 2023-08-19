@@ -1,0 +1,1 @@
+- https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3

@@ -1,0 +1,5 @@
+- https://github.com/xsscx/Commodity-Injection-Signatures
+- https://xss.js.org/#/xss01
+- https://github.com/payloadbox/xss-payload-list
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/six2dez/OneListForAll/blob/main/onelistforallshort.txt

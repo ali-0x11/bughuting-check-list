@@ -1,0 +1,9 @@
+- https://portswigger.net/bappstore/0ab7a94d8e11449daaf0fb387431225b
+- https://github.com/xnl-h4ck3r/GAP-Burp-Extension
+- https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa
+- https://github.com/hisxo/JSpector
+- https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f
+- https://portswigger.net/bappstore/4265b6220a524d0da966e64e94fa9b26
+- https://portswigger.net/bappstore/296e9a0730384be4b2fffef7b4e19b1f
+- https://github.com/aress31/burpgpt
+- https://github.com/lucsemassa/burp_bug_finder
